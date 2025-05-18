@@ -112,7 +112,7 @@ Tabela fato com métricas de vendas.
 
 ## 🚀 Como Reproduzir
 
-1. Acesse o notebook [`gaudium_test.ipynb`](../notebook/gaudium_test.ipynb)
+1. Acesse o notebook [`star_spark_sql.ipynb`](notebook/star_spark_sql.ipynb)
 2. Execute o notebook no Google Colab
 3. Faça upload de `dados_brutos.csv` ao ser solicitado
 4. Exporte os arquivos `.csv` ou `.zip` no final do processo
